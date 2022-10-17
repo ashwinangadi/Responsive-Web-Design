@@ -6,4 +6,4 @@
 https://www.freecodecamp.org/learn/2022/responsive-web-design
 
 This is the final result<br>
-<img src="/1. Learn HTML by Building a Cat Photo App/Final result..PNG">
+<img src="/01. Learn HTML by Building a Cat Photo App/Final result..PNG">
