@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Survey form</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body> 
+    <div> 
+    <h1 id="title">Survey form</h1>
+    <p id="description">Thanks for participating in the Survey</p> 
+    <section>
+    <form action='https://register-demo.freecodecamp.org' id="survey-form">
+      <fieldset>
+          <label id="name-label" >Name <input type="text" id="name" class="basic" placeholder="Your name" required></label>
+          <label id="email-label">Email <input type="email" id="email" class="basic" placeholder="email address" required></label>
+          <label id="number-label">Age <input type="number" id="number" class="basic" min="15" max="35" placeholder=" age" required></label>
+          <label class="drop">Which option best describes your current role?
+            <select id="dropdown">
+              <option value="">Not Selected</option>
+              <option value="1">Student</option>
+              <option value="2">Employed</option>
+            </select> 
+          </label>
+      </fieldset>
+      <fieldset>
+        <label class="radio">Would you recommend freecodecamp to a friend?
+          <label class="r1"><input type="radio" name="radio"  value="yes">Yes</label>
+          <label class="r1"><input type="radio" name="radio"  value="no">No</label>
+          <label class="r1"><input type="radio" name="radio"  value="maybe">Maybe</label>
+          </label>
+        <label class="checkbox">What did you learn?
+          <label class="r1"><input type="checkbox" value="box1">Front-End</label>
+          <label class="r1"><input type="checkbox" value="box2">Back-End</label>
+          <label class="r1"><input type="checkbox" value="box3">Javascript</label>
+        </label>
+        <label>What else you are interested to learn?<textarea rows="3" cols="30" placeholder="What you want to learn.."></textarea></label>
+      </fieldset>
+      <input type="submit" id="submit" >
+    </form>
+    </div>  
+  </body>
+</html>
