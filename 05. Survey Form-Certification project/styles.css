@@ -1,6 +1,6 @@
 
 body{
-    background-color: rgb(116, 93, 64);
+    background-image: url(https://i.ytimg.com/vi/lSwANskkF3o/maxres2.jpg);
     width: 100%;
     height: 100vh;
     margin: auto;
@@ -8,7 +8,7 @@ body{
     color: white;
 }
 div{
-    background-color:rgb(10, 82, 102);
+    background-color:rgba(14, 30, 34, 0.8);
     width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -27,7 +27,7 @@ p{
     margin: 2px 0;
     text-align: center;
     font-size: 15px;
-    color: rgb(163, 142, 22);
+    color: rgb(236, 217, 106);
     font-style: oblique;
 }
 fieldset{
@@ -38,7 +38,7 @@ label{
     display: block;
     padding: 5px 0;
     font-size: 15px;
-    color: rgb(255, 238, 0);
+    color: rgb(206, 234, 245);
 }
 .basic{
     display: block;
@@ -50,7 +50,7 @@ label{
 .r1{
     font-size: 13px;
     vertical-align: auto;   
-    color: rgb(240, 111, 133);
+    color: rgb(230, 222, 178);
     margin-top: -5px;
     padding: 4px;
 }
