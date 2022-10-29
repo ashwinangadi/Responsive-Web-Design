@@ -5,4 +5,4 @@
 https://www.freecodecamp.org/learn/2022/responsive-web-design/
 
 This is the final result<br>
-<img src="/10. Tribute page-Certification project/Final result.PNG">
+<img src="/10. Tribute page-Certification project/Final result.png">
