@@ -11,3 +11,5 @@ All notes and codes are from https://www.freecodecamp.org/ assignments
 06. [Learn the CSS Box Model by Building a Rothko Painting](https://github.com/ashwinangadi/Responsive-Web-Design/tree/main/06.%20Learn%20the%20CSS%20Box%20Model%20by%20Building%20a%20Rothko%20Painting)
 07. [Learn CSS Flexbox by Building a Photo Gallery](https://github.com/ashwinangadi/Responsive-Web-Design/tree/main/07.%20Learn%20CSS%20Flexbox%20by%20Building%20a%20Photo%20Gallery)
 08. [Learn Typography by Building a Nutrition Label](https://github.com/ashwinangadi/Responsive-Web-Design/tree/main/08.%20Learn%20Typography%20by%20Building%20a%20Nutrition%20Label)
+09. [Learn Accessibility by Building a Quiz](https://github.com/ashwinangadi/Responsive-Web-Design/tree/main/09.%20Learn%20Accessibility%20by%20Building%20a%20Quiz)
+10. [Tribute page-Certification project](https://github.com/ashwinangadi/Responsive-Web-Design/tree/main/10.%20Tribute%20page-Certification%20project)
