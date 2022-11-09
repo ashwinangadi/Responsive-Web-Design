@@ -1,0 +1,70 @@
+body{
+    font-family:sans-serif;
+    line-height: 25px;
+}
+#navbar{
+    position: fixed;
+    top: -1px;
+    border-right: 2px solid black;
+    width:270px;
+    height: 100vh;
+    min-width: 100px;
+    overflow: hidden;
+}
+#main-doc{
+    position: relative; 
+    margin-left: 290px;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+header{
+    font-size: 1.5rem;
+    margin-top: 10px;
+    padding:5px
+}
+#navbar li{
+    position: relative;
+    top:0;
+    left: -50px;
+    list-style: none;
+    padding: 10px 0 10px 15px;
+    font-size: 1rem;
+    width: 265px;
+    border-top: 1.5px solid black;
+}
+#navbar a{
+    display: block;
+    color: black;
+    text-decoration: none;
+}
+.main-section{
+    margin-top: -15px;
+    margin-left: -15px;
+    font-size: 14px;
+    font-weight: lighter;
+}
+code{
+    display: block;
+    margin-left: 15px;
+    background-color: rgb(250, 242, 231);
+    padding: 15px;
+    white-space: pre-line;
+
+}
+article{
+    margin-left: 20px;
+    display: block;
+}
+.main-section li{
+    padding: 8px;
+}
+#main-doc header{
+    margin-top: 25px;
+    padding: 10px;
+    font-weight: bolder;
+}
+@media only screen and (max-width: 400px) {
+    #main-doc {
+      margin-left: -10px;
+    }
+}
